@@ -2,15 +2,21 @@
 This projet is developed during Labs of the subject IoT Architecture
 
 By:
-Henchir  Hatem 
+
+Henchir  Hatem
+
 Mohammed Omar Najjar
+
 Ben Taher Malek
+
 Abid Eya
+
 Under-graduated students, 
 Embadded system and IoT Bachelors 
 
 
 Under the supervision of:
+
 Amira Henaien, 
 Computer Science, Assistant Professor,
 Higher Institute of Computer Science Mahdia(ISIMA),
